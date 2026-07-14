@@ -13,3 +13,17 @@ To build one of the world's most respected automotive companies through innovati
 
 **Likith**  
 Founder & CEO
+## Our Mission
+To create world-class vehicles through engineering, innovation, and uncompromising quality.
+
+## Future Products
+- Electric Cars
+- Hypercars
+- Motorcycles
+- AI Mobility Systems
+
+## Careers
+We will hire world-class engineers, designers, software developers, and researchers.
+
+## Contact
+Email: your-email@example.com
