@@ -1,23 +1,39 @@
-# Hi, I'm Likith 👋
+# CRIST Motors
 
-## Founder & CEO — CRIST Motors
+## Building the Future. Engineering the Impossible.
 
-Building the Future. Engineering the Impossible.
+CRIST Motors is an automotive startup focused on designing and developing original cars, motorcycles, electric vehicles, and next-generation mobility technologies.
 
-### About CRIST Motors
-CRIST Motors is an automotive startup focused on creating original cars, motorcycles, and future mobility technologies.
-
-### Vision
+## Vision
 To build one of the world's most respected automotive companies through innovation, engineering excellence, and original design.
 
-### Mission
-To create world-class vehicles through engineering, innovation, and uncompromising quality.
+## Mission
+To create world-class vehicles that combine performance, technology, safety, and uncompromising quality.
 
-### Future Products
-- Electric Cars
-- Hypercars
-- Motorcycles
-- AI Mobility Systems
+## Future Products
+- 🚗 Electric Cars
+- 🏎️ Hypercars
+- 🏍️ Motorcycles
+- 🤖 AI Mobility Systems
+- 🔋 Battery Technologies
 
-### Contact
+## Careers
+In the future, CRIST Motors aims to build a world-class team of:
+- Mechanical Engineers
+- Automotive Engineers
+- Electrical Engineers
+- Software Engineers
+- AI Engineers
+- Industrial Designers
+- Manufacturing Engineers
+
+## Founder
+**Likith**  
+Founder & Chief Executive Officer (CEO)
+
+## Contact
 📧 likithraf@gmail.com
+
+---
+**CRIST Motors**  
+*Beyond Imagination. Beyond Motion.*
